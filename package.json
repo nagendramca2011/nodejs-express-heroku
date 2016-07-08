@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "express": "^4.14.0"
+    "express": "^3.4.7"
   }
 }
