@@ -9,6 +9,9 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "express": "^3.4.7"
+    "express": "^4.9.8"
+  },
+  "engines": {
+    "node": "4.1.1"
   }
 }
